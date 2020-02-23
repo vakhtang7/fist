@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c961b7c3-2aa9-464b-8440-f18b520f9c18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WQhztt1UABqek6xLnAKZLb0FQ9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NEWSAITBOT/newsaitbot/www/assets/MDB-Free_4.8.2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c961b7c3-2aa9-464b-8440-f18b520f9c18" name="Default Changelist" comment="" />
+      <created>1579087991664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579087991664</updated>
+      <workItem from="1579087992787" duration="16406000" />
+      <workItem from="1579302365722" duration="28579000" />
+      <workItem from="1579787212066" duration="897000" />
+      <workItem from="1579854683559" duration="3765000" />
+      <workItem from="1579862944456" duration="40856000" />
+      <workItem from="1580222029769" duration="2223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="136" width="1000" height="839" key="#Inspections" timestamp="1580245732205">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="455" y="136" width="1000" height="839" key="#Inspections/0.34.1920.1046@0.34.1920.1046" timestamp="1580245732205" />
+    <state x="414" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579958282521">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="414" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1579958282521" />
+    <state x="107" y="829" width="1694" height="151" key="DiffContextDialog" timestamp="1579875075369">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="107" y="829" width="1694" height="151" key="DiffContextDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1579875075369" />
+    <state x="690" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1580122559753">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="690" y="257" width="530" height="598" key="FileChooserDialogImpl/0.34.1920.1046@0.34.1920.1046" timestamp="1580122559753" />
+    <state width="1871" height="7" key="GridCell.Tab.0.bottom" timestamp="1579532637890">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1871" height="7" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1579532637890" />
+    <state width="1871" height="7" key="GridCell.Tab.0.center" timestamp="1579532637889">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1871" height="7" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1579532637889" />
+    <state width="1871" height="7" key="GridCell.Tab.0.left" timestamp="1579532637889">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1871" height="7" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1579532637889" />
+    <state width="1871" height="7" key="GridCell.Tab.0.right" timestamp="1579532637890">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1871" height="7" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1579532637890" />
+    <state x="656" y="176" width="598" height="759" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580245835034">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="656" y="176" width="598" height="759" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.34.1920.1046@0.34.1920.1046" timestamp="1580245835034" />
+    <state x="643" y="450" key="run.anything.popup" timestamp="1580134134453">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="643" y="450" key="run.anything.popup/0.34.1920.1046@0.34.1920.1046" timestamp="1580134134453" />
+  </component>
+</project>
