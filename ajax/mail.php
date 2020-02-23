@@ -1,5 +1,5 @@
 <?php
- $test = $_POST['name'];
+ $test = $_POST[name];
  $phone = $_POST['phone'];
 
  $subject = "=?utf-8?B?".base64_encode("Сообщение с сайта")."?=";
